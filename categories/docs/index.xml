@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller de Producto 2021 on María José Ortiz - Taller Productos 2021</title>
+    <link>https://mjortizt.github.io/docs/</link>
+    <description>Recent content in Taller de Producto 2021 on María José Ortiz - Taller Productos 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://mjortizt.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encargo 0</title>
+      <link>https://mjortizt.github.io/docs/post-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjortizt.github.io/docs/post-1/</guid>
+      <description>Uso de tutoriales para la creación de un sitio web personal. Biografía y trabajos representativos.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 1</title>
+      <link>https://mjortizt.github.io/docs/post-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjortizt.github.io/docs/post-2/</guid>
+      <description>Recreación de una silla seleccionada por el alumno y presentación de un tipo de impresión 3D</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2</title>
+      <link>https://mjortizt.github.io/docs/post-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjortizt.github.io/docs/post-3/</guid>
+      <description>Bocetos e ideas sobre sillas de impresión 3D</description>
+    </item>
+    
+    <item>
+      <title>Encargo 3</title>
+      <link>https://mjortizt.github.io/docs/post-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjortizt.github.io/docs/post-4/</guid>
+      <description>Precendete de silla PEELER</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://mjortizt.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjortizt.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://mjortizt.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjortizt.github.io/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 04</title>
+      <link>https://mjortizt.github.io/docs/post-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjortizt.github.io/docs/post-5/</guid>
+      <description>Encargo de avance. Diseño de silla derivada de la entrega final.</description>
+    </item>
+    
+  </channel>
+</rss>
