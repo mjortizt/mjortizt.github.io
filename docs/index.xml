@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>Encargo 4</title>
+      <link>https://mjortizt.github.io/docs/post-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mjortizt.github.io/docs/post-5/</guid>
+      <description>Encargo de avance. Diseño de silla derivada de la entrega final.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://mjortizt.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -59,15 +68,6 @@
       
       <guid>https://mjortizt.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 04</title>
-      <link>https://mjortizt.github.io/docs/post-5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://mjortizt.github.io/docs/post-5/</guid>
-      <description>Encargo de avance. Diseño de silla derivada de la entrega final.</description>
     </item>
     
   </channel>
